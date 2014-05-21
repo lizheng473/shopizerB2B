@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-modules id="moduleCoreId" project-version="1.5.0">
+<wb-module deploy-name="central">
+<wb-resource deploy-path="/" source-path="/WebContent"/>
+<wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/conf/hibernate"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/conf/struts"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/conf/properties"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/conf/resources"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/conf/modules-resources"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/conf/spring"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/conf/tlds"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/conf/templates"/>
+<property name="java-output-path" value="build/classes"/>
+<property name="context-root" value="central"/>
+</wb-module>
+</project-modules>
